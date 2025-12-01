@@ -167,15 +167,7 @@ Loss: 0.079
 
 ---
 
-## 🖼️ Screenshots 
 
-
-* Streamlit UI screenshot
-
-* Flask UI screenshot
-* Sample predictions
-
----
 
 ## 👨‍💻 Author
 
@@ -185,5 +177,6 @@ GitHub: [https://github.com/chaitanyaaga18](https://github.com/chaitanyaaga18)
 ---
 
 ## 📜 License
+
 
 
